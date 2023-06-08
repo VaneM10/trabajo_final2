@@ -54,7 +54,7 @@ const EditProduct = () => {
             type="submit"
             className="w-full py-3 font-bold text-white bg-indigo-600 hover:bg-indigo-500 rounded-lg border-indigo-500 hover:shadow"
           >
-            Update
+            Actualizar
           </button>
         </div>
       </form>

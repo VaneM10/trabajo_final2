@@ -22,7 +22,7 @@ const AddProduct = () => {
       <form onSubmit={saveProducto} className="my-10">
         <div className="flex flex-col">
           <div className="mb-5">
-            <label className="font-bold text-slate-700">Descripcion del Proucto</label>
+            <label className="font-bold text-slate-700">Descripcion del Producto</label>
             <input
               type="text"
               className="w-full py-3 mt-1 border border-slate-200 rounded-lg px-3 focus:outline-none focus:border-slate-500 hover:shadow"
@@ -45,7 +45,7 @@ const AddProduct = () => {
             type="submit"
             className="w-full py-3 font-bold text-white bg-indigo-600 hover:bg-indigo-500 rounded-lg border-indigo-500 hover:shadow"
           >
-            Save
+            Guardar
           </button>
         </div>
       </form>
